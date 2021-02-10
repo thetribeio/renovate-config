@@ -1,0 +1,7 @@
+{
+  "name": "@thetribe/renovate-config",
+  "version": "0.1.0",
+  "files": [
+    "default.json"
+  ]
+}
